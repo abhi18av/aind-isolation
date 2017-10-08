@@ -1,1 +1,5 @@
 viz.gif filter=lfs diff=lfs merge=lfs -text
+AlphaGoNaturePaper.pdf filter=lfs diff=lfs merge=lfs -text
+heuristic_analysis.pdf filter=lfs diff=lfs merge=lfs -text
+research_review.pdf filter=lfs diff=lfs merge=lfs -text
+isolation-138501.zip filter=lfs diff=lfs merge=lfs -text
